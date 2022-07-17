@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gold_cup.iml" filepath="$PROJECT_DIR$/.idea/modules/gold_cup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/gold_cup.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/gold_cup.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/gold_cup.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/gold_cup.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/gold_cup.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/gold_cup.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/gold_cup.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/gold_cup.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/981949583/gold_cup.corelib.iml" filepath="$PROJECT_DIR$/.idea/modules/981949583/gold_cup.corelib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/981949583/gold_cup.corelib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/981949583/gold_cup.corelib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/981949583/gold_cup.corelib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/981949583/gold_cup.corelib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/981949583/gold_cup.corelib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/981949583/gold_cup.corelib.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1964189590/gold_cup.ui.iml" filepath="$PROJECT_DIR$/.idea/modules/-1964189590/gold_cup.ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1964189590/gold_cup.ui.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1964189590/gold_cup.ui.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1964189590/gold_cup.ui.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1964189590/gold_cup.ui.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1964189590/gold_cup.ui.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1964189590/gold_cup.ui.unitTest.iml" />
+    </modules>
+  </component>
+</project>
